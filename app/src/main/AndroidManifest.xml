@@ -5,9 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/icongrocery"
+        android:icon="@drawable/grocerycart"
         android:label="@string/grosery"
-        android:roundIcon="@drawable/icongrocery"
+        android:roundIcon="@drawable/grocerycart"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning"
